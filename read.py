@@ -2,10 +2,10 @@
 
 def generate_readme():
     # Fetch project information (e.g., docstrings, file names, etc.)
-    project_name = ""
-    description = "Description of your project."
-    author = "Your Name"
-    email = "your.email@example.com"
+    project_name = "Microservice"
+    description = "Creating a microservice application using Flask framework in python"
+    author = "Deepak Kumar"
+    email = "deepak.ce2k15@gmail.com"
     # Add more information as needed...
 
     # Generate README content
