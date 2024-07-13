@@ -1,0 +1,5 @@
+{
+    "host" : "project-dbs.cxaui20y089h.ap-south-1.rds.amazonaws.com",
+    "user" : "admin",
+    "passwd" : "123456789"
+}
